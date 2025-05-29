@@ -1,6 +1,4 @@
-opencv-python
-face_recognition
-
-pandas
-streamlit
-plotly
+opencv-python-headless==4.9.0.80
+pandas==2.2.1
+streamlit==1.35.0
+plotly==5.22.0
